@@ -1,0 +1,10 @@
+/* src/app/globals.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif; /* Ensure this matches your font */
+    background-color: #f0f0f0; /* Example background color */
+    color: #333; /* Example text color */
+  }
+  
+  /* Add any other global styles you need */
